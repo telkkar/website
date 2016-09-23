@@ -1,0 +1,12 @@
+body {
+	font-family: "Open Sans", "Roboto", sans-serif;
+	font-size: 14px;
+}
+
+#contain_all > header {
+	text-align: center;
+	padding-left: 6em;
+	padding-right: 6em;
+	padding-top: 4em;
+	padding-bottom: 4em;
+}
