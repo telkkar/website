@@ -1,8 +1,23 @@
 body {
 	font-family: "Noto Sans", sans-serif;
-	font-size: 0.9rem;
+	font-size: 1rem;
 	color: rgba(0,0,0,0.8);
 	margin: 0px;
+}
+
+a:link, a:visited {
+	color: rgba(0,0,0,0.8);
+}
+
+nav > ul {
+	padding: 0px;
+	list-style: none;
+	font-size: 1.4rem;
+}
+
+nav li {
+	display: inline;
+	padding: 0.5rem;
 }
 
 #contain_all > section,header {
