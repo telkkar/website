@@ -1,12 +1,36 @@
 body {
 	font-family: "Noto Sans", sans-serif;
-	font-size: 14px;
+	font-size: 0.9rem;
+	color: rgba(0,0,0,0.8);
+	margin: 0px;
 }
 
-#contain_all > header {
+#contain_all > section,header {
 	text-align: center;
-	padding-left: 6em;
-	padding-right: 6em;
-	padding-top: 4em;
-	padding-bottom: 4em;
+	padding-left: 5rem;
+	padding-right: 5rem;
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
+
+/* TODO: Make this a repeating thing that gets applied by #contain_all */
+.color-band {
+	color: white;
+	background-color: rgba(0,0,0,0.8);
+}
+
+#about_me {
+
+}
+
+#career {
+
+}
+
+#interests {
+
+}
+
+#projects {
+
 }
