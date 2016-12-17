@@ -9,6 +9,10 @@ a:link, a:visited {
 	color: rgba(0,0,0,0.8);
 }
 
+a:hover {
+	color: rgba(180,0,0,0.8);
+}
+
 nav > ul {
 	padding: 0px;
 	list-style: none;
